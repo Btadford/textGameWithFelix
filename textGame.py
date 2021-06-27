@@ -1,4 +1,1 @@
-print ("heyy")
-  #ur a mug
-
-  #no tyou are!
+print ("You start at a house. Would you like to enter - yes or no?")
