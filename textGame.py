@@ -1,1 +1,1 @@
-print ("You start at a house. Would you like to enter - yes or no?")
+print ("You start at a house. Would you like to enter - yes or no?") #test
